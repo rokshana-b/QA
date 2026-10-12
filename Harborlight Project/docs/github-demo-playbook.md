@@ -1,4 +1,4 @@
-# GitHub demo playbook
+# GitHub demo 
 
 This guide gives you sample content to add to GitHub's project-management features after uploading the files. GitHub interface labels may vary slightly by account.
 
