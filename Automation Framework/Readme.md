@@ -42,4 +42,4 @@ Run tests from the repository root and specify the project’s test folder. For 
 python -m pytest qa/sample-project1/tests/
 ```
 
-Update the command if your folder names or test-runner setup differ.
+Update the command if your folder names or test-runner setup differ. 
